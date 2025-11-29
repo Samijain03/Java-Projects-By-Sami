@@ -4,7 +4,7 @@ Welcome to my Java portfolio! This repository contains a collection of my Java p
 
 ## 👨‍💻 About Me
 * **Name:** Samay Jain
-* **Goal:** To become the greatest programmer of all time.
+* **Goal:** To become proficient at java.
 * **Focus:** Core Java, Object-Oriented Programming (OOP), Data Structures & Algorithms.
 
 ---
